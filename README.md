@@ -1,4 +1,4 @@
-### Привет 👋, я Михаил
+## Привет 👋, я Михаил
 
 
 ![](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=Swift&logoColor=black)
@@ -29,7 +29,7 @@
 
 ---
 
-![Mikkerman's codewars stats](https://www.codewars.com/users/mikkerman/badges/micro)
+![Mikkerman's codewars stats](https://www.codewars.com/users/mikkerman/badges/large)
 
 [![Hopesdielast26's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hopesdielast26&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
