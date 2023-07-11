@@ -1,5 +1,5 @@
-## Привет 👋, я Михаил
-
+# Привет 👋, я Михаил
+---
 
 ![](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=Swift&logoColor=black)
 ![](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white)
